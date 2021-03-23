@@ -15,7 +15,7 @@ I'm a freelance front-end developer. I'm working a lot with PHP and JS. I love d
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianemi2&count_private=true)
 
 ## My fav projects
+[![Tinson Node](https://github-readme-stats.vercel.app/api/pin/?username=gianemi2&repo=tinson-node)](https://github.com/gianemi2/tinson-node)
+[![Snake JS](https://github-readme-stats.vercel.app/api/pin/?username=gianemi2&repo=Snake-JS)](https://github.com/gianemi2/Snake-JS)
 [![Who Drop that Lure](https://github-readme-stats.vercel.app/api/pin/?username=gianemi2&repo=who-drop-that-lure)](https://github.com/gianemi2/who-drop-that-lure)
 [![Subito.it Bot](https://github-readme-stats.vercel.app/api/pin/?username=gianemi2&repo=subito.it-bot)](https://github.com/gianemi2/subito.it-bot)
-[![Snake JS](https://github-readme-stats.vercel.app/api/pin/?username=gianemi2&repo=Snake-JS)](https://github.com/gianemi2/Snake-JS)
-[![Tinson Node](https://github-readme-stats.vercel.app/api/pin/?username=gianemi2&repo=tinson-node)](https://github.com/gianemi2/tinson-node)
